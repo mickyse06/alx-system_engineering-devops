@@ -1,0 +1,1 @@
+basic command of shell
